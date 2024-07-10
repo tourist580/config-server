@@ -1,8 +1,6 @@
 server:
   port: 8760
 spring:
-  application:
-    name: api-gateway
   cloud:
     gateway:
       routes:
